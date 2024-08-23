@@ -1,23 +1,30 @@
-## Hi there 👋
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy José Ortega 👋
 
 **¿Quién eres?**  
-Soy [Tu Nombre], un apasionado desarrollador de software con experiencia en [tecnologías o lenguajes relevantes].
+Soy José Ortega, un desarrollador con experiencia en Java, JavaScript, Node.js, Express.js y Spring Boot.
 
 **¿De dónde eres?**  
-Soy de [Tu Ciudad, País].
+Vivo en Viña del Mar, Chile.
 
 **¿A qué te dedicas?**  
-Actualmente, me dedico al desarrollo de aplicaciones web y móvil, especializándome en [tu especialización, como Java, Spring Boot, etc.].
+Actualmente, me especializo en el desarrollo web utilizando tecnologías como Java, JavaScript, Node.js, Express.js y Spring Boot.
 
 **¿Cuál es tu formación?**  
-Tengo formación en [Tu Formación Académica, por ejemplo, Ingeniería en Sistemas, Bootcamp de Desarrollo Full Stack, etc.].
+- **Universidad Técnica Federico Santa María**  
+  Técnico en Electricidad (2019-2021)
+
+- **Universidad Andrés Bello**  
+  Bootcamp de Desarrollo Web Full Stack JavaScript (31 de noviembre - 5 de mayo, 2023)
+
+- **Instituto Praxis**  
+  Bootcamp de Desarrollo Web Full Stack Java (Marzo - Septiembre, 2024)
 
 **¿Cuáles son tus experiencias previas? y en caso que no tengas ¿por qué deberían contactarte?**  
-He trabajado en [menciona experiencias relevantes o proyectos]. Si eres una empresa que busca un desarrollador con habilidades en [tecnologías específicas], ¡no dudes en contactarme!
+He adquirido habilidades significativas en el desarrollo de aplicaciones con Java y JavaScript. Si tu empresa necesita a alguien con experiencia en estas tecnologías, no dudes en contactarme.
 
 **¿Cómo y a través de qué medios te pueden contactar?**  
-Puedes contactarme a través de [tu correo electrónico] o en [LinkedIn, Twitter, etc.].
+Puedes contactarme a través de mi correo electrónico: [jo633554@gmail.com](mailto:jo633554@gmail.com)  
+También puedes conectar conmigo en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/).
 
 <!--
 **Jozz16/Jozz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
