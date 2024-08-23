@@ -1,15 +1,15 @@
 # Hola, soy José Ortega 👋
 
-**¿Quién eres?**  
+## Sobre mí
 Soy José Ortega, un desarrollador con experiencia en Java, JavaScript, Node.js, Express.js y Spring Boot.
 
-**¿De dónde eres?**  
+## Ubicación
 Vivo en Viña del Mar, Chile.
 
-**¿A qué te dedicas?**  
+## Especialización
 Actualmente, me especializo en el desarrollo web utilizando tecnologías como Java, JavaScript, Node.js, Express.js y Spring Boot.
 
-**¿Cuál es tu formación?**  
+## Formación
 - **Universidad Técnica Federico Santa María**  
   Técnico en Electricidad (2019-2021)
 
@@ -19,10 +19,10 @@ Actualmente, me especializo en el desarrollo web utilizando tecnologías como Ja
 - **Instituto Praxis**  
   Bootcamp de Desarrollo Web Full Stack Java (Marzo - Septiembre, 2024)
 
-**¿Cuáles son tus experiencias previas? y en caso que no tengas ¿por qué deberían contactarte?**  
+## Experiencia
 He adquirido habilidades significativas en el desarrollo de aplicaciones con Java y JavaScript. Si tu empresa necesita a alguien con experiencia en estas tecnologías, no dudes en contactarme.
 
-**¿Cómo y a través de qué medios te pueden contactar?**  
+## Contacto
 Puedes contactarme a través de mi correo electrónico: [jo633554@gmail.com](mailto:jo633554@gmail.com)  
 También puedes conectar conmigo en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/).
 
