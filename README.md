@@ -4,18 +4,19 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
     <div style="text-align: center; margin-bottom: 20px;">
-        🧑‍💻 Un desarrollador especializado en **Java** y **JavaScript**. Me encanta construir soluciones escalables y eficientes para la web.
+        🧑‍💻 Un desarrollador especializado en Java y JavaScript. Me encanta construir soluciones escalables y eficientes para la web.
         <br><br>
-        - 💻 **Lenguajes y Tecnologías**: Java, JavaScript, Node.js, Express.js, Spring Boot.
+        - 💻 Lenguajes y Tecnologías: Java, JavaScript, Node.js, Express.js, Spring Boot.
         <br><br>
         - 🌱 Actualmente estoy aprendiendo: Desarrollo con microservicios y Docker.
-        <br><br>
+        <br>
+        <br>
+         <h3>Contacto</b></h3>
         📧 Puedes contactarme a través de mi correo electrónico: <a href="mailto:jo633554@gmail.com">jo633554@gmail.com</a>  
         <br>
         🔗 También puedes conectar conmigo en <a href="https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/" target="_blank">LinkedIn</a>
+         <br>
     </div>
-    <img src="https://img.freepik.com/foto-gratis/fondo-fotorrealista-galaxia_23-2151064385.jpg" alt="Imagen de perfil" style="width: 100%; height: 400px; max-width: 600px; max-height: 200px; object-fit: cover;" />
-</div>
 
 <div style="display:inline; width:100%" align="center">
     <h2>Tecnologías</h2>
@@ -28,4 +29,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="Spring Boot logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="MySQL logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="PostgreSQL logo" />
+    
 </div>
+ 
+<img src="https://img.freepik.com/foto-gratis/fondo-fotorrealista-galaxia_23-2151064385.jpg" alt="Imagen de perfil" style="width: 100%; height: 400px; max-width: 600px; max-height: 200px; object-fit: cover;" />
+</div>
+
+
