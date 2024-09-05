@@ -5,11 +5,11 @@
     <div style="text-align: left; margin-right: 20px;">
         🧑‍💻 Un desarrollador especializado en **Java** y **JavaScript**. Me encanta construir soluciones escalables y eficientes para la web.
 
-- 💻 **Lenguajes y Tecnologías**: Java, JavaScript, Node.js, Express.js, Spring Boot.
-- 🌱 Actualmente estoy aprendiendo: Desarrollo con microservicios y Docker.
-
-  📧 Puedes contactarme a través de mi correo electrónico: <a href="mailto:jo633554@gmail.com">jo633554@gmail.com</a>  
-  🔗 También puedes conectar conmigo en <a href="https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/" target="_blank">LinkedIn</a>
+  - 💻 **Lenguajes y Tecnologías**: Java, JavaScript, Node.js, Express.js, Spring Boot.
+        - 🌱 Actualmente estoy aprendiendo: Desarrollo con microservicios y Docker.
+    
+    📧 Puedes contactarme a través de mi correo electrónico: <a href="mailto:jo633554@gmail.com">jo633554@gmail.com</a>  
+    🔗 También puedes conectar conmigo en <a href="https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/" target="_blank">LinkedIn</a>
     </div>
     <div>
         <img src="https://via.placeholder.com/150" alt="Imagen de perfil" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" />
