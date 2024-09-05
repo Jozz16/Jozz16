@@ -8,11 +8,7 @@
     <p>🔗 También puedes conectar conmigo en <a href="https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/" target="_blank">LinkedIn</a></p>
 </div>
 
-<div align="center">
-  <img height="200" src="https://www.topito.com/wp-content/uploads/2013/01/code-21.gif"  />
-</div>
-
-### Habilidades:
+### tecnologias:
 
 <div style="display:inline; width:100%" align="center">
     <h2>Skills</h2>
