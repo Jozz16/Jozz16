@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hola! 👋, soy <b>José Ortega</b></h1>
+    <h1>Hola, soy <b>José Ortega</b> <br>Apasionado por la Programación y el Desarrollo Web</h1>
 </div>
 
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
