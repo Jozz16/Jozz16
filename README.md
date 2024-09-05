@@ -2,8 +2,8 @@
     <h1>Hola! 👋, soy <b>José Ortega</b></h1>
 </div>
 
-<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
-    <div style="text-align: left; margin-right: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+    <div style="text-align: center; margin-bottom: 20px;">
         🧑‍💻 Un desarrollador especializado en **Java** y **JavaScript**. Me encanta construir soluciones escalables y eficientes para la web.
         <br><br>
         - 💻 **Lenguajes y Tecnologías**: Java, JavaScript, Node.js, Express.js, Spring Boot.
@@ -14,9 +14,7 @@
         <br>
         🔗 También puedes conectar conmigo en <a href="https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/" target="_blank">LinkedIn</a>
     </div>
-    <div style="display: flex; align-items: center;">
-        <img src="https://img.freepik.com/foto-gratis/fondo-fotorrealista-galaxia_23-2151064385.jpg" alt="Imagen de perfil" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-left: 20px;" />
-    </div>
+    <img src="https://img.freepik.com/foto-gratis/fondo-fotorrealista-galaxia_23-2151064385.jpg" alt="Imagen de perfil" style="width: 100%; height: auto; max-width: 600px; object-fit: cover;" />
 </div>
 
 <div style="display:inline; width:100%" align="center">
