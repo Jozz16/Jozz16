@@ -14,7 +14,7 @@
         <br>
         🔗 También puedes conectar conmigo en <a href="https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/" target="_blank">LinkedIn</a>
     </div>
-    <img src="https://img.freepik.com/foto-gratis/fondo-fotorrealista-galaxia_23-2151064385.jpg" alt="Imagen de perfil" style="width: 100%; height: auto; max-width: 600px; object-fit: cover;" />
+    <img src="https://img.freepik.com/foto-gratis/fondo-fotorrealista-galaxia_23-2151064385.jpg" alt="Imagen de perfil" style="width: 100%; height: 400px; max-width: 600px; max-height: 200px; object-fit: cover;" />
 </div>
 
 <div style="display:inline; width:100%" align="center">
