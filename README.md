@@ -1,10 +1,12 @@
 # Hola, soy José Ortega 👋
 
-**Sobre mí**  
-🧑‍💻 Soy José Ortega, un desarrollador con experiencia en Java, JavaScript, Node.js, Express.js y Spring Boot.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador apasionado por el desarrollo web y las tecnologías backend. 🚀
 
-**Ubicación**  
-📍 Vivo en Viña del Mar, Chile.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 **Especialización**  
 🔧 Actualmente, me especializo en el desarrollo web utilizando tecnologías como Java, JavaScript, Node.js, Express.js y Spring Boot.
@@ -25,18 +27,3 @@
 **Contacto**  
 📧 Puedes contactarme a través de mi correo electrónico: [jo633554@gmail.com](mailto:jo633554@gmail.com)  
 🔗 También puedes conectar conmigo en [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-abraham-ortega-oyarz%C3%BAn-389851247/).
-
-<!--
-**Jozz16/Jozz16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
