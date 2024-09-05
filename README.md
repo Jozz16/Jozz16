@@ -1,8 +1,6 @@
 <div align="center">
     <h1>Hola! 👋, soy <b>José Ortega</b></h1>
 </div>
-     
-## Sobre mí  
 🧑‍💻 Un desarrollador especializado en **Java** y **JavaScript**. Me encanta construir soluciones escalables y eficientes para la web.
 
 - 💻 **Lenguajes y Tecnologías**: Java, JavaScript, Node.js, Express.js, Spring Boot.
