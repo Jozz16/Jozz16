@@ -10,7 +10,6 @@
         <br><br>
         - 🌱 Actualmente estoy aprendiendo: Desarrollo con microservicios y Docker.
         <br>
-        <br>
          <h3>Contacto</b></h3>
         📧 Puedes contactarme a través de mi correo electrónico: <a href="mailto:jo633554@gmail.com">jo633554@gmail.com</a>  
         <br>
